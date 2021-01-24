@@ -2,3 +2,5 @@ Hello
 Pushing a package
 creating a release
 deploying a release
+
+Creating a PR and building it in jenkins
