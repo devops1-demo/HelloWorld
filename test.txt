@@ -4,3 +4,5 @@ creating a release
 deploying a release
 
 Creating a PR and building it in jenkins
+
+Executing the octo pack command
