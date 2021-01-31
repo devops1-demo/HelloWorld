@@ -8,3 +8,5 @@ Creating a PR and building it in jenkins
 Executing the octo pack command
 
 Executing the octo push command
+
+Executing the octo create-release command
